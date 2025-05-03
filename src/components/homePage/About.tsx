@@ -3,7 +3,7 @@ import RevealOnScroll from "../RevealOnScroll";
 function About() {
 
     const frontendSkills = ["React", "Tailwind CSS", "JavaScript", "TypeScript", "HTML", "CSS"];
-    const backendSkills = ["Python", "MySQL", "MongoDB", "SQLite", "C/C++", "C#"];
+    const backendSkills = ["Python", "MySQL", "MongoDB", "SQLite", "C/C++", "C#", "Ruby"];
 
 
 
