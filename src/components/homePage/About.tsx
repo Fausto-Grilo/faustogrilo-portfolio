@@ -52,7 +52,7 @@ function About() {
                     <h3 className="text-xl font-bold mb-4"> 🏫 Education </h3>
                     <ul className="list-disc list-inside text-gray-300 space-y-2">
                         <li> 
-                            <strong> B.S in Computer Science </strong> - University of San Carlos (2020 - 2024)
+                            <strong> B.S in Computer Science </strong> - University of Coimbra (2025-2028)
                         </li>
 
                         <li> 
@@ -67,18 +67,10 @@ function About() {
                     <div className="space-y-4 text-gray-300">
                     <div>
                             <h4 className="font-semibold">
-                                Software Engineer - Tech Company (2023 - Present)
+                                None yet
                             </h4>
-                            <p> Deloped and maintened web applications and cloud services </p>
-                        </div>
-
-                        <div>
-                            <h4 className="font-semibold">
-                                Intern at Software Company (2022 - 2023)
-                            </h4>
-                            <p> Assisted on building front-end components and APIs </p>
-                        </div>
-
+                            <p> ... </p>
+                    </div>
 
                     </div>
                 </div>
